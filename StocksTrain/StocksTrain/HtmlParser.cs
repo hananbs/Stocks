@@ -13,6 +13,9 @@ using System.Windows.Forms;
 
 namespace StocksTrain
 {
+    /// <summary>
+    /// Defines all data you can get from Barchart about a stock 
+    /// </summary>
     class StockData
     {
         public string Symbol
@@ -54,6 +57,9 @@ namespace StocksTrain
         }
     }
 
+    /// <summary>
+    /// Responsible for Getting the data from Barchart
+    /// </summary>
     class BarchartParser
     {
         static string BARCHART_WEBSITE   = "http://www.barchart.com/stocks/percentadvance.php";
@@ -64,7 +70,6 @@ namespace StocksTrain
 
         public BarchartParser()
         {
-            // Initialize list
             Stocks = GetStocksData();
         }
 
@@ -132,6 +137,9 @@ namespace StocksTrain
         private StockData getDataFromRow(HtmlNode row)
         {
             List<HtmlNode> columns = row.Descendants("td").ToList();
+
+            #region Ugly part of parsing the columns from the site to objects
+
             string symbol = columns[0].Element("a").InnerText;
             string name = columns[1].Element("a").InnerText;
             double last = double.Parse(columns[2].InnerText);
@@ -149,6 +157,9 @@ namespace StocksTrain
             double low = double.Parse(columns[6].InnerText);
             int volume = int.Parse(columns[7].InnerText, System.Globalization.NumberStyles.AllowThousands);
             string time = columns[8].InnerText;
+
+            #endregion
+
             StockData stock = new StockData()
             {
                 Symbol = symbol,

@@ -10,3 +10,6 @@ C:\Users\Guttsait\Documents\GitHub\training\StocksTrain\StocksTrain\bin\Debug\Ht
 C:\Users\Guttsait\Documents\GitHub\training\StocksTrain\StocksTrain\obj\Debug\StocksTrain.exe
 C:\Users\Guttsait\Documents\GitHub\training\StocksTrain\StocksTrain\obj\Debug\StocksTrain.pdb
 C:\Users\Guttsait\Documents\GitHub\training\StocksTrain\StocksTrain\obj\Debug\StocksTrain.Form1.resources
+C:\Users\Guttsait\Documents\GitHub\Stocks\StocksTrain\StocksTrain\bin\Debug\StocksTrain.exe.config
+C:\Users\Guttsait\Documents\GitHub\Stocks\StocksTrain\StocksTrain\obj\Debug\StocksTrain.exe
+C:\Users\Guttsait\Documents\GitHub\Stocks\StocksTrain\StocksTrain\obj\Debug\StocksTrain.pdb

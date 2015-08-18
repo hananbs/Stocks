@@ -1,0 +1,12 @@
+C:\Users\Guttsait\Documents\GitHub\training\StocksTrain\StocksTrain\bin\Debug\StocksTrain.exe.config
+C:\Users\Guttsait\Documents\GitHub\training\StocksTrain\StocksTrain\obj\Debug\StocksTrain.csprojResolveAssemblyReference.cache
+C:\Users\Guttsait\Documents\GitHub\training\StocksTrain\StocksTrain\obj\Debug\StocksTrain.Properties.Resources.resources
+C:\Users\Guttsait\Documents\GitHub\training\StocksTrain\StocksTrain\obj\Debug\StocksTrain.csproj.GenerateResource.Cache
+C:\Users\Guttsait\Documents\GitHub\training\StocksTrain\StocksTrain\bin\Debug\StocksTrain.exe
+C:\Users\Guttsait\Documents\GitHub\training\StocksTrain\StocksTrain\bin\Debug\StocksTrain.pdb
+C:\Users\Guttsait\Documents\GitHub\training\StocksTrain\StocksTrain\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Guttsait\Documents\GitHub\training\StocksTrain\StocksTrain\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Guttsait\Documents\GitHub\training\StocksTrain\StocksTrain\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Guttsait\Documents\GitHub\training\StocksTrain\StocksTrain\obj\Debug\StocksTrain.exe
+C:\Users\Guttsait\Documents\GitHub\training\StocksTrain\StocksTrain\obj\Debug\StocksTrain.pdb
+C:\Users\Guttsait\Documents\GitHub\training\StocksTrain\StocksTrain\obj\Debug\StocksTrain.Form1.resources

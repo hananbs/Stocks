@@ -1,5 +1,0 @@
-C:\Users\sharon\Downloads\stocks\YahooFinanceCSV\Jarloo.YahooFinanceCSV\Jarloo.YahooFinanceCSV\bin\Debug\Jarloo.YahooFinanceCSV.exe
-C:\Users\sharon\Downloads\stocks\YahooFinanceCSV\Jarloo.YahooFinanceCSV\Jarloo.YahooFinanceCSV\bin\Debug\Jarloo.YahooFinanceCSV.pdb
-C:\Users\sharon\Downloads\stocks\YahooFinanceCSV\Jarloo.YahooFinanceCSV\Jarloo.YahooFinanceCSV\obj\x86\Debug\Jarloo.YahooFinanceCSV.csprojResolveAssemblyReference.cache
-C:\Users\sharon\Downloads\stocks\YahooFinanceCSV\Jarloo.YahooFinanceCSV\Jarloo.YahooFinanceCSV\obj\x86\Debug\Jarloo.YahooFinanceCSV.exe
-C:\Users\sharon\Downloads\stocks\YahooFinanceCSV\Jarloo.YahooFinanceCSV\Jarloo.YahooFinanceCSV\obj\x86\Debug\Jarloo.YahooFinanceCSV.pdb

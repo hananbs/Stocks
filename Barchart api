@@ -1,0 +1,45 @@
+Thank you for registering for Barchart OnDemand's getQuote and getHistory free market data APIs!
+
+With the API Key provided below, you are now ready to supply financial data to front, middle and back-office software applications as well as integrate financial content into your websites and mobile apps!
+
+Unique API Key: ca81524193b5e6cfbc9ae3e1b17e681a
+
+API Documentation: getHistory, getQuote
+
+You can customize your queries using the inputs found in the API documentation. The unique API key is to be used in your API queries. See below for an example.
+
+getHistory sample query: http://marketdata.websol.barchart.com/getHistory.json?key=ca81524193b5e6cfbc9ae3e1b17e681a&symbol=IBM&type=daily&startDate=20140805000000
+
+getQuote sample query: http://marketdata.websol.barchart.com/getQuote.json?key=ca81524193b5e6cfbc9ae3e1b17e681a&symbols=ZC*1,IBM,GOOGL,^EURUSD
+
+*Market data displayed on a website or application must include the following disclaimer:
+
+**********************
+Copyright © 2015. All market data provided by Barchart Market Data Solutions.
+
+BATS market data is at least 15-minutes delayed. Forex market data is at least 10-minutes delayed. AMEX, NASDAQ, NYSE and futures market data (CBOT, CME, COMEX and NYMEX) is end-of-day. Information is provided 'as is' and solely for informational purposes, not for trading purposes or advice, and is delayed. To see all exchange delays and terms of use, please see our disclaimer.
+**********************
+
+API Overview:
+
+With the Barchart OnDemand complimentary API service you have access to 15-minute delayed market data for BATS (US equities) and global Forex pairs, and end-of-day (including historical) market data for US equities from AMEX, NASDAQ, NYSE and futures from CBOT, CME, COMEX and NYMEX.
+
+The getQuote API includes up to 2,500 queries per day and up to 100 symbols per query. The getHistory API includes up to 1,500 historical queries per day (one symbol per query) and up to 2-years of daily history and 3-months of minute-based intervals (OHLC).
+
+When your daily API account query limit is reached, the data will be disabled then reset until the next day. If you require additional queries or other sets of market data, please Contact Us.
+
+*Use of Barchart's APIs is subject to our Terms of Use and Privacy Policy.
+
+API Support:
+
+For API support, please email us at: apisupport@barchart.com
+
+Click here to learn more about the different APIs Barchart OnDemand has to offer.
+
+We hope you get the most out of our APIs and market data!
+
+
+Regards,
+
+Barchart OnDemand
+www.barchartondemand.com
